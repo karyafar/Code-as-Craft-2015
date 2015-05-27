@@ -1,4 +1,8 @@
-# Looking through Camera Lenses: Computer Vision and its Applications in Etsy
+# [Looking through Camera Lenses: Computer Vision and its Applications in Etsy](https://codeascraft.com/speakers/kamelia-aryafar-and-jerry-soung-looking-at-etsy-through-camera-lenses-the-application-of-computer-vision-at-etsy/)
+
+
+
+# [Code as Craft Speaker Series](https://codeascraft.com/speakers/)
 
 # Table of Contents
 * [Talk Abstract](#abstract)
