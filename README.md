@@ -24,6 +24,7 @@ In this talk, we present a review of the state-of-the-art mathematical models fo
 
 #<a name="refs"></a>References
 * [Lowe, D. G. (1999). Object recognition from local scale-invariant features. In Computer vision, 1999. The proceedings of the seventh IEEE international conference on (Vol. 2, pp. 1150-1157).](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=790410&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D790410)
+* [Monga, Vishal, and Brian L. Evans. "Robust perceptual image hashing using feature points." Image Processing, 2004. ICIP'04. 2004 International Conference on. Vol. 1. IEEE, 2004.](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1418845&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D1418845)
 * [Bay, Herbert, et al. "Speeded-up robust features (SURF)." Computer vision and image understanding 110.3 (2008): 346-359.](http://www.sciencedirect.com/science/article/pii/S1077314207001555)
 * [Aryafar, K., & Soung, J. (2015). Exploring Alternate Modalities for Tag Recommendation. In Multimodal Pattern Recognition of Social Signals in Human-Computer-Interaction (pp. 141-144). Springer International Publishing.](http://link.springer.com/chapter/10.1007/978-3-319-14899-1_14)
 * [Aryafar, K., Lynch, C., & Attenberg, J. (2014, August). Exploring User Behaviour on Etsy through Dominant Colors. In Pattern Recognition (ICPR), 2014 22nd International Conference on (pp. 1437-1442). IEEE.](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6976966&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6976966)
@@ -37,6 +38,6 @@ In this talk, we present a review of the state-of-the-art mathematical models fo
 * http://www.graphicsmagick.org
 
 #<a name="acks"></a>Acknowledgements
-We would like to thank [Dr.Srinivasa Narasimhan](http://www.cs.cmu.edu/~srinivas/) for some slides on computer vision.
+We would like to thank [Dr.Srinivasa Narasimhan](http://www.cs.cmu.edu/~srinivas/) and other reference authors for some slides and images on computer vision.
 
  
