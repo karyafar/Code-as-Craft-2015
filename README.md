@@ -2,7 +2,7 @@
 
 
 
-# [Code as Craft Speaker Series](https://codeascraft.com/speakers/)
+# [Etsy Code as Craft Speaker Series](https://codeascraft.com/speakers/)
 
 # Table of Contents
 * [Talk Abstract](#abstract)
