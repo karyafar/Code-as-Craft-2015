@@ -36,6 +36,7 @@ In this talk, we present a review of the state-of-the-art mathematical models fo
 * http://phash.org/
 * http://www.imagemagick.org
 * http://www.graphicsmagick.org
+* http://fotoforensics.com/tutorial-ela.php
 
 #<a name="acks"></a>Acknowledgements
 We would like to thank [Dr.Srinivasa Narasimhan](http://www.cs.cmu.edu/~srinivas/) and other reference authors for some slides and images on computer vision.
