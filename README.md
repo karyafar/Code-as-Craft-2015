@@ -12,7 +12,7 @@
 * [Acknowledgements](#acks)
 
 
-#<a name="abstract"></a>Talk Abstract
+# <a name="abstract"></a>Talk Abstract
 Online retail is a visual experience – shoppers have particular styles that they find appealing; often images are used as first order information when making shopping decisions. There are a variety of signals extracted from the images representing those items for sale by shoppers. Amongst these, color composition, image features and various quality scores serve as important cues for visual search and image ranking. Often shoppers have a palette of favorite colors, or a mental image of what they’re looking for. Moreover, images can be used to extract meaningful information for security applications such as duplicate and tamper detection.
 
 In this talk, we present a review of the state-of-the-art mathematical models for image processing including feature and signatures extraction, matching and classification for tag recommendation, search by color and duplicate detection among other applications. We introduce the applications of these technologies at Etsy and discuss our experience and challenges integrating these technologies with our existing models.
